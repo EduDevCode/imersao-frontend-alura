@@ -41,6 +41,24 @@
         "name": "Caetano Veloso",
         "genre": "MPB",
         "urlImg": "https://i.scdn.co/image/ab67616100005174e98de50f36cf1aa4bf047757"
+      },
+      {
+        "id": 8,
+        "name": "Radiohead",
+        "genre": "Indie Rock",
+        "urlImg": "https://i.pinimg.com/736x/a7/12/d6/a712d6282c482cb73282de556687617a.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Projota",
+        "genre": "Rap",
+        "urlImg": "https://www.ofuxico.com.br/img/upload/celebridade/2021/05/11/projota-com-os-cabelos-descoloridos_2919_251.jpg"
+      },
+      {
+        "id": 10,
+        "name": "The Beatles",
+        "genre": "Rock",
+        "urlImg": "https://cdn.britannica.com/18/136518-050-CD0E49C6/The-Beatles-Ringo-Starr-Paul-McCartney-George.jpg"
       }
     ]
   }
